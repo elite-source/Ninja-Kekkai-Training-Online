@@ -1,0 +1,6 @@
+{
+  "name": "Ninja Sage Kekkai Training & Solver",
+  "description": "Master the Kekkai Training puzzle with an optimal Mastermind solver algorithm, screenshot tile OCR recognition, and interactive ninja training simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
